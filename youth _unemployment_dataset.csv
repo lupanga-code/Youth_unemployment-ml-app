@@ -1,0 +1,501 @@
+Year,Age_Group,Gender,Education_Level,Skills,Work_Experience,Youth_Unemployment_Rate,Employment_Status
+2019,15-19,Male,Primary,Vocational,None,6.69,Employed
+2005,20-24,Female,Secondary,Vocational,None,3.24,Employed
+1998,15-19,Female,Tertiary,Vocational,None,4.07,Employed
+2011,20-24,Female,Primary,Vocational,1-2 years,4.54,Employed
+2009,15-19,Male,Tertiary,None,None,4.64,Employed
+2013,15-19,Male,Secondary,None,1-2 years,4.39,Unemployed
+2001,15-19,Male,Primary,None,1-2 years,7.16,Employed
+2001,20-24,Male,Secondary,None,1-2 years,5.88,Employed
+2014,15-19,Male,Secondary,None,3+ years,5.47,Employed
+2014,15-19,Male,Primary,Vocational,None,2.27,Employed
+1993,15-19,Female,Primary,Vocational,None,6.97,Employed
+2012,15-19,Female,Primary,Vocational,1-2 years,7,Employed
+1992,20-24,Female,Primary,Vocational,1-2 years,6.29,Employed
+2014,20-24,Female,Primary,None,None,2.04,Employed
+2020,15-19,Male,Primary,None,1-2 years,2.32,Employed
+1992,20-24,Male,Primary,None,None,3.24,Employed
+2011,15-19,Female,Tertiary,Technical,3+ years,2.72,Employed
+2023,15-19,Male,Secondary,Vocational,1-2 years,4.19,Employed
+2002,15-19,Female,Primary,Vocational,None,7.07,Employed
+2012,20-24,Female,Tertiary,None,1-2 years,4.6,Employed
+2015,20-24,Female,Tertiary,Vocational,None,2.07,Employed
+2017,20-24,Male,Tertiary,Vocational,None,3.56,Employed
+2018,20-24,Female,Secondary,None,1-2 years,2.25,Employed
+2006,20-24,Female,Primary,Technical,3+ years,2.2,Employed
+2005,20-24,Female,Tertiary,Technical,None,3.52,Employed
+1993,20-24,Male,Secondary,Technical,None,3.52,Employed
+1997,20-24,Male,Secondary,None,None,6.33,Employed
+2011,20-24,Female,Secondary,Vocational,3+ years,7.36,Employed
+1999,15-19,Male,Tertiary,None,3+ years,4.04,Employed
+2008,20-24,Male,Primary,None,1-2 years,4.36,Employed
+1994,20-24,Male,Tertiary,Vocational,3+ years,6.65,Unemployed
+2015,20-24,Male,Tertiary,Technical,1-2 years,3.47,Employed
+2004,20-24,Male,Primary,Technical,1-2 years,2.86,Employed
+1999,20-24,Male,Primary,None,3+ years,6.69,Employed
+2016,20-24,Male,Primary,Technical,1-2 years,2.26,Employed
+1992,20-24,Male,Secondary,None,3+ years,5.41,Employed
+2010,20-24,Male,Primary,None,1-2 years,5.09,Unemployed
+2018,20-24,Male,Tertiary,Vocational,3+ years,3.9,Employed
+1997,20-24,Female,Primary,Vocational,3+ years,3.73,Employed
+1998,20-24,Female,Tertiary,Vocational,1-2 years,6.25,Employed
+2025,15-19,Male,Secondary,None,None,2.48,Employed
+2004,15-19,Female,Tertiary,Vocational,1-2 years,3.3,Employed
+2007,20-24,Female,Tertiary,Technical,3+ years,6.03,Unemployed
+1994,20-24,Male,Primary,Technical,None,5.02,Employed
+1992,15-19,Male,Primary,None,1-2 years,2.7,Employed
+1996,20-24,Male,Tertiary,None,1-2 years,6.85,Employed
+1994,15-19,Female,Primary,Vocational,1-2 years,4.16,Employed
+2019,15-19,Female,Secondary,None,None,6.55,Employed
+2008,15-19,Male,Secondary,None,3+ years,6.33,Employed
+2016,15-19,Male,Primary,Technical,1-2 years,5.43,Employed
+2024,15-19,Male,Secondary,Technical,1-2 years,4.72,Employed
+2000,20-24,Female,Primary,Vocational,1-2 years,7.39,Employed
+2004,15-19,Female,Tertiary,None,1-2 years,2.8,Employed
+2021,20-24,Female,Tertiary,None,1-2 years,5.99,Employed
+2005,20-24,Female,Secondary,Technical,3+ years,3.05,Employed
+1998,15-19,Male,Primary,None,3+ years,3.86,Employed
+2004,15-19,Male,Primary,Technical,1-2 years,3.7,Unemployed
+2013,20-24,Male,Secondary,Vocational,None,7.21,Unemployed
+2011,15-19,Male,Tertiary,Technical,3+ years,7.32,Employed
+2006,15-19,Female,Secondary,None,None,3.01,Employed
+2008,20-24,Female,Tertiary,Vocational,3+ years,2.12,Employed
+2014,20-24,Male,Primary,Technical,1-2 years,5.96,Unemployed
+2016,15-19,Male,Tertiary,Technical,3+ years,4.3,Employed
+2015,20-24,Female,Secondary,Vocational,1-2 years,2.49,Employed
+2019,15-19,Male,Primary,Vocational,3+ years,5.76,Employed
+2005,15-19,Female,Secondary,Technical,1-2 years,5,Employed
+1991,15-19,Male,Secondary,None,1-2 years,7.39,Employed
+2015,20-24,Male,Tertiary,Technical,1-2 years,3.25,Employed
+1997,20-24,Male,Secondary,Vocational,1-2 years,4.22,Employed
+1999,20-24,Male,Tertiary,Technical,None,4.98,Employed
+2014,20-24,Male,Primary,Vocational,1-2 years,6.35,Employed
+1991,20-24,Male,Tertiary,Vocational,None,5.02,Employed
+1998,15-19,Male,Primary,None,None,5.37,Unemployed
+2014,15-19,Female,Tertiary,Vocational,1-2 years,3.24,Employed
+2001,15-19,Female,Secondary,Vocational,None,6.66,Employed
+2007,15-19,Female,Tertiary,None,3+ years,4.36,Employed
+1998,20-24,Female,Tertiary,Vocational,1-2 years,2.78,Employed
+2025,15-19,Female,Primary,None,None,5.65,Employed
+2025,20-24,Male,Secondary,None,1-2 years,3.19,Unemployed
+2023,15-19,Male,Tertiary,Vocational,1-2 years,2.54,Employed
+1995,20-24,Female,Secondary,Vocational,1-2 years,6.74,Employed
+2018,20-24,Male,Tertiary,Technical,None,4.53,Employed
+1997,15-19,Female,Tertiary,None,3+ years,6.12,Employed
+1999,15-19,Female,Secondary,Technical,3+ years,3.6,Employed
+1998,15-19,Male,Tertiary,Vocational,None,6.33,Employed
+2002,15-19,Male,Secondary,Technical,1-2 years,2.62,Employed
+2024,20-24,Male,Tertiary,None,None,3.96,Employed
+2023,15-19,Female,Primary,Technical,None,7.38,Employed
+2013,15-19,Male,Secondary,None,None,6.37,Employed
+2014,20-24,Female,Tertiary,Vocational,1-2 years,4.73,Employed
+2025,15-19,Female,Tertiary,Vocational,None,3.87,Employed
+2012,15-19,Female,Primary,None,1-2 years,6.8,Employed
+2017,15-19,Male,Secondary,Vocational,None,5,Employed
+2025,15-19,Male,Tertiary,Vocational,3+ years,6.17,Employed
+1991,15-19,Female,Primary,Vocational,None,6.15,Employed
+2025,20-24,Male,Tertiary,Vocational,None,2.1,Employed
+2004,15-19,Male,Secondary,None,3+ years,2.69,Employed
+1993,15-19,Male,Tertiary,Technical,1-2 years,5.63,Employed
+1991,15-19,Female,Tertiary,Technical,1-2 years,2.89,Employed
+1995,15-19,Female,Tertiary,Vocational,None,3.41,Employed
+2016,15-19,Male,Tertiary,Technical,3+ years,7.21,Unemployed
+2004,20-24,Female,Primary,Technical,1-2 years,5.08,Employed
+2017,15-19,Male,Primary,Vocational,None,6.13,Employed
+1999,20-24,Male,Secondary,Vocational,3+ years,5.07,Employed
+2005,20-24,Male,Primary,Technical,1-2 years,5.04,Employed
+2005,15-19,Male,Primary,None,1-2 years,2.52,Employed
+2016,15-19,Female,Secondary,Vocational,3+ years,3.89,Employed
+2003,15-19,Female,Primary,None,3+ years,3.55,Employed
+2022,15-19,Female,Primary,Technical,3+ years,4.15,Employed
+2022,20-24,Male,Secondary,Vocational,3+ years,6.39,Employed
+1994,15-19,Male,Secondary,None,None,4.05,Employed
+2020,15-19,Male,Secondary,Vocational,3+ years,4.48,Employed
+2013,15-19,Female,Tertiary,Technical,1-2 years,4.19,Employed
+2005,15-19,Male,Tertiary,None,1-2 years,2.51,Employed
+2019,15-19,Female,Secondary,Technical,None,4.43,Employed
+2003,15-19,Female,Secondary,Technical,1-2 years,3.08,Employed
+2022,20-24,Female,Secondary,Vocational,1-2 years,3.03,Employed
+1997,20-24,Female,Tertiary,None,3+ years,2.52,Employed
+2012,15-19,Female,Tertiary,Technical,1-2 years,3.96,Employed
+2018,15-19,Female,Primary,Technical,None,6.17,Employed
+1992,15-19,Male,Primary,None,3+ years,3.52,Employed
+1996,20-24,Male,Secondary,Technical,3+ years,3.72,Employed
+2018,15-19,Female,Tertiary,Technical,None,5.53,Employed
+2018,20-24,Female,Tertiary,None,3+ years,3.08,Employed
+2010,15-19,Male,Tertiary,None,3+ years,6.93,Employed
+2020,15-19,Female,Secondary,None,None,4.86,Employed
+2001,15-19,Female,Primary,None,3+ years,4.46,Employed
+2018,15-19,Male,Secondary,Vocational,None,5.07,Employed
+2015,20-24,Female,Primary,None,None,2.91,Employed
+2023,20-24,Female,Primary,Vocational,1-2 years,5.37,Employed
+1991,15-19,Female,Secondary,Vocational,1-2 years,4,Employed
+2017,15-19,Male,Primary,Vocational,3+ years,6.93,Employed
+2003,20-24,Male,Primary,Technical,3+ years,2.93,Employed
+1993,20-24,Male,Tertiary,Vocational,None,4.79,Employed
+1996,20-24,Female,Primary,Vocational,3+ years,5.29,Employed
+1998,20-24,Female,Secondary,Technical,None,2.18,Employed
+2017,15-19,Male,Secondary,Technical,None,4,Employed
+1999,20-24,Female,Primary,Technical,3+ years,6.03,Employed
+2023,15-19,Female,Tertiary,None,None,6.51,Employed
+2014,20-24,Female,Tertiary,Technical,1-2 years,3.72,Employed
+2005,20-24,Female,Primary,Technical,3+ years,6.39,Employed
+2022,20-24,Female,Primary,Vocational,1-2 years,7.32,Employed
+2022,20-24,Male,Secondary,Technical,3+ years,6.71,Employed
+2014,20-24,Female,Primary,None,None,2.65,Employed
+2002,15-19,Male,Tertiary,Technical,3+ years,6.07,Employed
+1992,15-19,Female,Primary,None,1-2 years,3.76,Employed
+1993,20-24,Male,Secondary,Technical,None,7.44,Employed
+2007,20-24,Female,Secondary,Technical,3+ years,4.67,Employed
+1992,15-19,Male,Secondary,Technical,3+ years,2.67,Employed
+1992,20-24,Female,Secondary,Technical,3+ years,5.99,Employed
+2018,20-24,Male,Secondary,None,1-2 years,3.78,Employed
+2013,15-19,Female,Primary,None,1-2 years,7.48,Unemployed
+2022,20-24,Male,Primary,Vocational,3+ years,7.39,Employed
+2023,20-24,Female,Primary,None,None,5.61,Employed
+1991,15-19,Male,Primary,Technical,None,2.71,Employed
+2009,15-19,Male,Secondary,Vocational,1-2 years,5.78,Employed
+1992,15-19,Female,Tertiary,Vocational,None,2.51,Employed
+2016,20-24,Female,Primary,Vocational,1-2 years,2.16,Employed
+2022,15-19,Male,Tertiary,Technical,3+ years,6.53,Employed
+1996,15-19,Female,Primary,None,1-2 years,3.15,Employed
+2022,15-19,Male,Primary,Technical,1-2 years,4.08,Employed
+1994,15-19,Male,Tertiary,Vocational,3+ years,7.35,Employed
+2001,15-19,Male,Secondary,Technical,None,3.85,Employed
+2007,15-19,Female,Primary,Technical,1-2 years,3.63,Employed
+2014,20-24,Male,Primary,None,1-2 years,7.05,Employed
+1995,20-24,Male,Primary,None,3+ years,2.61,Employed
+2024,15-19,Female,Tertiary,Vocational,None,6.18,Employed
+1996,15-19,Female,Secondary,Technical,1-2 years,7.43,Employed
+2012,15-19,Female,Tertiary,Technical,3+ years,6.96,Employed
+2001,20-24,Female,Tertiary,None,1-2 years,5.58,Employed
+2006,20-24,Male,Secondary,Technical,3+ years,3.73,Employed
+2023,20-24,Male,Tertiary,Technical,None,3.4,Employed
+1999,20-24,Male,Secondary,Technical,None,6.51,Employed
+1996,20-24,Male,Primary,None,None,6.84,Employed
+2006,20-24,Female,Secondary,Vocational,None,4.89,Employed
+2019,20-24,Male,Primary,Vocational,1-2 years,3.34,Employed
+1993,20-24,Male,Tertiary,Technical,1-2 years,2.62,Unemployed
+2010,20-24,Female,Tertiary,Vocational,None,2.48,Employed
+2009,15-19,Male,Primary,None,None,5.95,Employed
+2016,15-19,Male,Tertiary,None,None,4.31,Employed
+1993,15-19,Male,Secondary,Vocational,1-2 years,6.98,Employed
+2009,15-19,Male,Primary,Vocational,None,6.07,Employed
+2010,20-24,Male,Tertiary,Technical,None,3.05,Employed
+2022,20-24,Male,Primary,Vocational,None,5.38,Employed
+1997,15-19,Female,Secondary,Technical,3+ years,4.4,Employed
+2023,20-24,Female,Secondary,Technical,None,5.17,Employed
+2008,15-19,Male,Tertiary,None,3+ years,6.06,Employed
+1991,20-24,Male,Secondary,None,3+ years,6.43,Employed
+2001,15-19,Female,Primary,None,None,6.64,Unemployed
+2018,20-24,Male,Secondary,None,3+ years,3.4,Employed
+2015,20-24,Male,Primary,Vocational,None,2.17,Employed
+2013,15-19,Male,Primary,None,1-2 years,6.07,Employed
+2021,20-24,Female,Secondary,Vocational,1-2 years,2.58,Employed
+2020,15-19,Male,Tertiary,None,1-2 years,3.73,Employed
+2025,15-19,Female,Secondary,Vocational,1-2 years,2.02,Employed
+1997,15-19,Male,Primary,Technical,3+ years,5.75,Employed
+2006,15-19,Female,Primary,Vocational,None,2.92,Employed
+2016,20-24,Female,Secondary,Vocational,None,5.6,Employed
+1992,20-24,Male,Tertiary,None,None,7.45,Employed
+1991,20-24,Female,Tertiary,Vocational,1-2 years,2.4,Employed
+2002,15-19,Male,Primary,Technical,1-2 years,2.42,Employed
+1995,20-24,Female,Primary,Technical,None,3.87,Employed
+2022,15-19,Male,Tertiary,None,1-2 years,6.77,Employed
+1999,20-24,Male,Secondary,Technical,None,3.19,Employed
+2025,20-24,Female,Primary,Vocational,None,3.98,Employed
+2009,20-24,Male,Primary,Technical,None,2.38,Employed
+2006,15-19,Male,Tertiary,None,None,6.2,Employed
+1993,20-24,Female,Secondary,Vocational,None,4.25,Employed
+2010,20-24,Male,Tertiary,None,None,6.18,Employed
+2014,15-19,Male,Secondary,Vocational,None,6.97,Employed
+2023,20-24,Female,Secondary,Technical,1-2 years,3.28,Employed
+2014,15-19,Female,Secondary,None,None,6.44,Unemployed
+2001,20-24,Male,Primary,None,None,2.33,Employed
+1998,15-19,Male,Tertiary,Vocational,1-2 years,6.94,Employed
+2010,15-19,Female,Tertiary,None,1-2 years,5.58,Employed
+2025,20-24,Female,Secondary,Vocational,1-2 years,6.81,Employed
+2015,15-19,Male,Primary,Vocational,None,2,Employed
+2025,15-19,Female,Primary,Vocational,3+ years,2.93,Employed
+2015,15-19,Male,Tertiary,Vocational,3+ years,4.14,Employed
+2019,15-19,Male,Primary,Technical,1-2 years,4.09,Employed
+2008,15-19,Male,Primary,Vocational,3+ years,3.25,Employed
+2008,15-19,Male,Secondary,None,1-2 years,4.1,Employed
+1992,20-24,Male,Primary,Technical,None,2.71,Employed
+2025,15-19,Female,Secondary,None,3+ years,4.27,Employed
+2006,15-19,Female,Tertiary,Technical,None,6.41,Employed
+2023,20-24,Female,Primary,Vocational,3+ years,4.63,Employed
+1994,20-24,Female,Tertiary,Technical,None,2.1,Employed
+2023,20-24,Male,Tertiary,Technical,3+ years,4.32,Employed
+2004,20-24,Male,Primary,None,None,2.15,Employed
+2011,20-24,Male,Primary,None,None,7.31,Employed
+2010,20-24,Male,Tertiary,Vocational,3+ years,2.7,Employed
+1998,20-24,Female,Primary,Technical,None,5.89,Employed
+1997,15-19,Male,Secondary,Technical,None,7.35,Employed
+1993,15-19,Male,Secondary,Technical,None,6.54,Employed
+2007,20-24,Female,Primary,Vocational,3+ years,5.85,Employed
+2023,15-19,Female,Tertiary,Vocational,3+ years,6.62,Employed
+2002,15-19,Female,Primary,Vocational,None,7.4,Employed
+2012,15-19,Female,Primary,Vocational,None,5.42,Employed
+2012,20-24,Male,Tertiary,Vocational,3+ years,5.08,Employed
+2020,20-24,Male,Tertiary,None,3+ years,5.46,Employed
+1998,15-19,Female,Secondary,Technical,None,4.93,Employed
+2017,20-24,Male,Tertiary,Technical,None,5.49,Employed
+2017,15-19,Male,Secondary,Technical,None,4.47,Employed
+2024,15-19,Male,Tertiary,Technical,1-2 years,3.2,Employed
+2011,15-19,Female,Primary,Technical,3+ years,2.66,Employed
+2020,15-19,Male,Secondary,Technical,1-2 years,2.38,Employed
+2023,20-24,Female,Secondary,Technical,3+ years,3.45,Employed
+2018,20-24,Male,Secondary,Technical,3+ years,2.25,Employed
+2023,20-24,Male,Primary,None,3+ years,5.12,Employed
+1995,15-19,Male,Primary,Technical,3+ years,3.56,Employed
+2009,20-24,Female,Primary,None,3+ years,6.53,Employed
+1994,15-19,Male,Primary,Vocational,3+ years,2.41,Employed
+2025,20-24,Female,Primary,Technical,3+ years,3.24,Employed
+2007,15-19,Female,Secondary,Vocational,1-2 years,6.02,Employed
+2018,15-19,Female,Primary,Vocational,None,5.29,Employed
+2020,15-19,Male,Secondary,Vocational,None,2.35,Employed
+2019,20-24,Male,Primary,None,1-2 years,6.82,Employed
+1996,20-24,Male,Tertiary,Vocational,1-2 years,6.82,Employed
+2025,20-24,Male,Secondary,Vocational,1-2 years,3.82,Employed
+2014,20-24,Female,Tertiary,Vocational,1-2 years,3.87,Employed
+2019,15-19,Female,Secondary,Technical,3+ years,7.44,Employed
+2021,20-24,Female,Tertiary,Technical,None,5.44,Employed
+2025,20-24,Male,Primary,None,3+ years,4.92,Employed
+2023,15-19,Female,Primary,None,None,6.61,Employed
+2011,15-19,Male,Primary,Technical,None,3.57,Employed
+2022,15-19,Female,Secondary,None,1-2 years,4.36,Employed
+2013,20-24,Male,Tertiary,Technical,3+ years,3.47,Employed
+2023,15-19,Male,Primary,Vocational,1-2 years,6.34,Employed
+1993,15-19,Female,Tertiary,Vocational,3+ years,5.15,Employed
+2008,15-19,Female,Tertiary,None,None,5.62,Employed
+2015,20-24,Female,Primary,Technical,1-2 years,3.39,Employed
+2021,15-19,Female,Primary,Technical,1-2 years,3.21,Employed
+1993,20-24,Male,Tertiary,None,None,4.69,Employed
+2014,20-24,Female,Primary,Technical,None,6.06,Employed
+2022,15-19,Female,Primary,Vocational,None,4.89,Employed
+2012,15-19,Female,Primary,None,1-2 years,2.18,Employed
+2013,20-24,Male,Secondary,None,3+ years,6.78,Employed
+1992,15-19,Male,Tertiary,Technical,1-2 years,2.36,Employed
+2017,15-19,Female,Tertiary,None,3+ years,7.26,Employed
+1992,20-24,Male,Secondary,Technical,1-2 years,2.14,Employed
+2016,20-24,Female,Tertiary,Technical,1-2 years,5.82,Employed
+2007,15-19,Male,Primary,Technical,None,2.45,Employed
+2023,20-24,Male,Tertiary,Technical,3+ years,7.01,Employed
+1999,15-19,Male,Primary,Technical,1-2 years,4.55,Employed
+2019,15-19,Male,Secondary,None,1-2 years,2.76,Employed
+2016,15-19,Female,Primary,Vocational,None,3.87,Employed
+2025,20-24,Female,Tertiary,Vocational,None,2.91,Employed
+2015,15-19,Female,Tertiary,None,3+ years,2.94,Employed
+2014,15-19,Male,Tertiary,None,1-2 years,7.21,Employed
+2003,15-19,Female,Secondary,Vocational,3+ years,4.45,Employed
+1997,20-24,Female,Secondary,Vocational,1-2 years,6.34,Employed
+2010,20-24,Female,Tertiary,Vocational,3+ years,5.52,Employed
+1991,20-24,Male,Primary,Vocational,None,5.72,Employed
+1998,20-24,Male,Secondary,Vocational,1-2 years,2.72,Employed
+2006,20-24,Male,Tertiary,Technical,3+ years,3.29,Employed
+2004,15-19,Female,Tertiary,None,None,6.33,Employed
+2002,20-24,Female,Secondary,Technical,None,7.34,Employed
+2013,20-24,Female,Secondary,Vocational,3+ years,3.44,Employed
+2005,20-24,Male,Secondary,Vocational,1-2 years,3.49,Employed
+2018,15-19,Male,Primary,Vocational,1-2 years,4.6,Employed
+2024,20-24,Female,Primary,Technical,None,7.41,Employed
+1992,20-24,Male,Tertiary,Technical,1-2 years,3.48,Employed
+2022,15-19,Male,Secondary,Vocational,1-2 years,4.24,Employed
+2013,20-24,Male,Primary,Technical,1-2 years,6.9,Employed
+2012,15-19,Male,Secondary,Technical,None,2.02,Employed
+2015,15-19,Female,Tertiary,Vocational,3+ years,2.22,Employed
+2012,15-19,Male,Primary,Technical,1-2 years,5.32,Employed
+2012,15-19,Male,Primary,None,None,6.99,Employed
+1996,15-19,Male,Primary,None,None,3.31,Employed
+2005,20-24,Male,Tertiary,None,3+ years,4.58,Employed
+2023,15-19,Female,Secondary,None,1-2 years,4.48,Employed
+1998,15-19,Female,Primary,Vocational,1-2 years,4.6,Employed
+1995,20-24,Male,Tertiary,Vocational,3+ years,5.42,Employed
+1994,15-19,Male,Secondary,Vocational,3+ years,4.58,Employed
+1996,20-24,Male,Tertiary,None,None,4.46,Employed
+2022,20-24,Male,Secondary,None,None,4.61,Employed
+2020,20-24,Male,Tertiary,Technical,3+ years,5.25,Employed
+2025,15-19,Male,Secondary,Technical,1-2 years,4.95,Employed
+2006,15-19,Female,Primary,None,None,6.7,Employed
+2003,15-19,Male,Secondary,None,None,2.27,Employed
+2020,20-24,Female,Tertiary,None,1-2 years,6.58,Employed
+2009,15-19,Female,Tertiary,None,None,6.64,Unemployed
+2007,15-19,Male,Secondary,Technical,1-2 years,3.57,Unemployed
+2009,15-19,Female,Primary,None,1-2 years,4.55,Employed
+2018,20-24,Female,Primary,Technical,1-2 years,4.41,Employed
+2016,20-24,Female,Secondary,None,3+ years,3.2,Employed
+2016,15-19,Female,Secondary,None,3+ years,4.18,Employed
+2013,15-19,Female,Tertiary,None,3+ years,2.24,Employed
+1999,15-19,Female,Primary,Technical,1-2 years,3.53,Employed
+2002,15-19,Male,Secondary,Technical,1-2 years,6.49,Employed
+1991,20-24,Female,Primary,Vocational,3+ years,3.57,Employed
+1991,20-24,Female,Secondary,None,None,6.5,Employed
+2024,20-24,Female,Secondary,Vocational,1-2 years,4.92,Employed
+2022,20-24,Male,Primary,Vocational,None,6.84,Employed
+2015,15-19,Female,Secondary,Technical,None,5.16,Employed
+1991,15-19,Male,Secondary,Technical,1-2 years,2.16,Employed
+2006,15-19,Female,Tertiary,Vocational,1-2 years,5.71,Employed
+1995,20-24,Male,Secondary,None,None,2.25,Employed
+2012,15-19,Male,Secondary,Technical,None,4.48,Employed
+2019,20-24,Female,Secondary,None,3+ years,7.11,Employed
+1993,20-24,Female,Tertiary,None,3+ years,2.91,Employed
+2002,15-19,Male,Primary,Vocational,1-2 years,4.14,Employed
+2016,15-19,Female,Tertiary,Vocational,3+ years,6.01,Employed
+2006,15-19,Male,Tertiary,Vocational,3+ years,6.85,Employed
+2012,20-24,Male,Primary,Vocational,3+ years,5.69,Employed
+2019,15-19,Male,Tertiary,Technical,3+ years,3.42,Employed
+2004,20-24,Male,Primary,Technical,None,5.71,Unemployed
+2018,15-19,Male,Tertiary,Vocational,1-2 years,3.63,Employed
+1995,20-24,Female,Primary,Technical,3+ years,5.95,Employed
+2020,20-24,Male,Secondary,Vocational,None,7.25,Employed
+1995,15-19,Male,Tertiary,None,None,5.97,Employed
+2002,20-24,Female,Tertiary,None,None,6.75,Employed
+2006,20-24,Male,Tertiary,None,3+ years,2.01,Employed
+2016,15-19,Female,Tertiary,Vocational,3+ years,5.95,Employed
+2016,20-24,Female,Secondary,None,1-2 years,6.56,Employed
+2011,15-19,Female,Tertiary,Technical,3+ years,2.22,Unemployed
+2023,20-24,Male,Secondary,None,3+ years,6.79,Employed
+2020,15-19,Male,Secondary,None,None,3.41,Employed
+2013,15-19,Male,Secondary,None,1-2 years,5.66,Employed
+2000,20-24,Female,Secondary,Technical,3+ years,6.4,Employed
+1995,20-24,Male,Primary,Vocational,3+ years,5.64,Employed
+2024,20-24,Female,Primary,Technical,None,2.51,Employed
+2021,20-24,Male,Tertiary,Vocational,None,5.28,Employed
+2000,20-24,Female,Primary,Vocational,3+ years,5.02,Employed
+2009,15-19,Male,Primary,None,1-2 years,6.95,Employed
+2022,20-24,Male,Tertiary,Vocational,1-2 years,4.22,Unemployed
+1991,15-19,Male,Tertiary,Technical,None,3.77,Employed
+1995,15-19,Female,Tertiary,Technical,None,6.12,Employed
+1994,20-24,Female,Primary,Vocational,3+ years,4.27,Employed
+2006,15-19,Male,Primary,None,None,5.55,Employed
+2014,15-19,Male,Tertiary,None,3+ years,5.56,Employed
+2006,15-19,Female,Secondary,Technical,1-2 years,6.88,Employed
+1992,15-19,Female,Tertiary,None,1-2 years,5.29,Employed
+2018,20-24,Female,Secondary,Vocational,3+ years,4.76,Employed
+2022,15-19,Male,Secondary,Vocational,None,2.76,Employed
+2017,20-24,Female,Tertiary,Technical,1-2 years,2.64,Employed
+2010,20-24,Male,Tertiary,Vocational,None,2.85,Employed
+2014,15-19,Female,Tertiary,Technical,1-2 years,2.95,Employed
+2002,20-24,Male,Primary,Vocational,3+ years,5.51,Unemployed
+2025,20-24,Female,Secondary,Technical,3+ years,6.08,Employed
+2023,20-24,Female,Primary,None,3+ years,4.91,Employed
+2023,15-19,Female,Primary,Vocational,1-2 years,6.56,Employed
+2002,20-24,Female,Tertiary,Vocational,None,7.45,Employed
+1993,20-24,Female,Primary,Technical,None,6.51,Employed
+1991,20-24,Male,Tertiary,Technical,None,5.82,Employed
+2023,15-19,Female,Secondary,Vocational,1-2 years,4.93,Employed
+2000,20-24,Female,Tertiary,Technical,1-2 years,4.47,Employed
+2019,15-19,Female,Primary,Vocational,1-2 years,2.46,Employed
+2003,15-19,Male,Primary,None,1-2 years,4.2,Employed
+2002,15-19,Female,Tertiary,Technical,1-2 years,7.01,Employed
+2021,15-19,Male,Tertiary,Vocational,None,6.44,Employed
+1992,15-19,Female,Primary,None,1-2 years,3.19,Employed
+2025,15-19,Female,Secondary,None,1-2 years,4.57,Employed
+2013,20-24,Male,Secondary,Vocational,None,6.49,Employed
+2007,15-19,Female,Tertiary,Technical,1-2 years,2.37,Employed
+2016,20-24,Male,Secondary,Vocational,None,4.13,Employed
+1998,20-24,Male,Primary,None,None,6.69,Employed
+2019,15-19,Female,Tertiary,Vocational,3+ years,4.22,Employed
+2016,20-24,Male,Primary,Technical,3+ years,2.43,Employed
+2000,20-24,Female,Primary,None,3+ years,4.98,Employed
+2016,20-24,Female,Secondary,Vocational,3+ years,6.74,Employed
+2024,20-24,Male,Tertiary,Technical,1-2 years,5.25,Employed
+1997,15-19,Male,Tertiary,None,3+ years,3.24,Employed
+1994,20-24,Male,Secondary,Technical,None,4.11,Employed
+2001,15-19,Male,Primary,None,1-2 years,4.48,Employed
+2019,20-24,Female,Primary,Vocational,3+ years,5.19,Unemployed
+2015,20-24,Female,Primary,Technical,None,6.18,Employed
+2011,15-19,Male,Primary,None,1-2 years,2.54,Employed
+2000,20-24,Female,Tertiary,Technical,1-2 years,6.89,Employed
+1999,20-24,Female,Tertiary,Technical,3+ years,2.07,Employed
+2014,20-24,Female,Secondary,Vocational,1-2 years,4.04,Employed
+2025,15-19,Female,Secondary,Technical,None,2.15,Employed
+2025,20-24,Male,Tertiary,None,1-2 years,4.16,Employed
+2008,15-19,Male,Tertiary,None,None,4.89,Unemployed
+2022,20-24,Female,Primary,None,1-2 years,4.81,Employed
+2014,15-19,Male,Primary,None,3+ years,2.91,Employed
+2013,15-19,Male,Secondary,Vocational,None,5.55,Employed
+2022,20-24,Male,Tertiary,Technical,1-2 years,2.25,Employed
+2002,20-24,Female,Secondary,Vocational,1-2 years,6.19,Employed
+2003,15-19,Female,Tertiary,Technical,1-2 years,7.21,Employed
+2013,15-19,Female,Primary,Technical,None,3.87,Employed
+2015,20-24,Male,Secondary,Technical,None,4.84,Employed
+2025,15-19,Female,Secondary,Vocational,None,4.08,Employed
+2020,20-24,Female,Tertiary,Technical,3+ years,2.04,Employed
+2007,20-24,Male,Primary,Vocational,3+ years,4.12,Employed
+2010,20-24,Female,Secondary,None,None,6.35,Employed
+2015,20-24,Female,Primary,None,1-2 years,5.28,Employed
+2012,15-19,Male,Secondary,Technical,3+ years,2.56,Employed
+2003,20-24,Male,Primary,Vocational,None,6.66,Employed
+2009,15-19,Male,Tertiary,None,1-2 years,4.92,Employed
+2002,20-24,Female,Secondary,Vocational,3+ years,6.63,Employed
+2009,15-19,Female,Secondary,Vocational,1-2 years,5.19,Employed
+2002,20-24,Female,Primary,Technical,1-2 years,5.08,Unemployed
+1999,15-19,Male,Primary,None,1-2 years,2.58,Employed
+1997,15-19,Male,Secondary,Technical,1-2 years,2.92,Employed
+2018,20-24,Female,Tertiary,Technical,3+ years,7.35,Unemployed
+2004,20-24,Female,Primary,None,3+ years,3.26,Employed
+2021,20-24,Male,Primary,None,3+ years,7.38,Employed
+2009,20-24,Male,Primary,Vocational,None,4.93,Employed
+2006,15-19,Male,Secondary,None,3+ years,2.75,Employed
+1995,20-24,Male,Secondary,Vocational,1-2 years,2.55,Employed
+2025,15-19,Female,Secondary,Vocational,3+ years,3.15,Employed
+2002,15-19,Male,Secondary,Vocational,1-2 years,7.09,Employed
+2015,20-24,Female,Tertiary,None,None,4.28,Employed
+2011,15-19,Female,Tertiary,Technical,1-2 years,4.17,Employed
+2013,15-19,Female,Secondary,Vocational,1-2 years,3.72,Employed
+2006,15-19,Male,Tertiary,Technical,1-2 years,2.81,Employed
+2004,15-19,Male,Primary,Technical,None,4.68,Employed
+2021,20-24,Male,Primary,None,3+ years,2.72,Employed
+1995,20-24,Male,Primary,Technical,3+ years,6.6,Employed
+2025,20-24,Female,Secondary,Technical,None,4.04,Employed
+2013,20-24,Male,Primary,None,1-2 years,4.06,Employed
+2019,15-19,Male,Tertiary,Vocational,3+ years,4.61,Employed
+2001,15-19,Female,Secondary,Technical,None,4.44,Employed
+2008,20-24,Male,Tertiary,None,3+ years,7.47,Employed
+2002,20-24,Female,Primary,Technical,None,5,Employed
+1999,20-24,Female,Primary,Technical,1-2 years,2.49,Employed
+2000,15-19,Female,Primary,Vocational,3+ years,5.34,Employed
+2007,20-24,Female,Secondary,Technical,None,2.83,Unemployed
+1997,20-24,Female,Tertiary,None,3+ years,2.17,Employed
+2003,20-24,Female,Secondary,Technical,3+ years,7.34,Employed
+1999,15-19,Female,Secondary,Vocational,3+ years,6.25,Employed
+2017,15-19,Female,Primary,Vocational,3+ years,7.39,Employed
+1992,15-19,Male,Secondary,None,None,4.63,Employed
+1995,15-19,Male,Secondary,Vocational,1-2 years,4.93,Employed
+2019,15-19,Male,Primary,Technical,None,2.93,Employed
+2009,15-19,Male,Secondary,Vocational,None,3.36,Employed
+1998,15-19,Female,Primary,None,None,6.61,Employed
+1991,15-19,Male,Primary,Vocational,1-2 years,3.96,Employed
+2012,20-24,Female,Primary,Vocational,3+ years,6.55,Employed
+2007,20-24,Male,Primary,Vocational,3+ years,5.9,Employed
+1997,15-19,Male,Secondary,None,3+ years,2.97,Employed
+2015,15-19,Male,Primary,Vocational,1-2 years,4.79,Employed
+1994,20-24,Female,Primary,Vocational,3+ years,5.73,Employed
+1996,15-19,Male,Secondary,Technical,1-2 years,3.29,Employed
+2021,15-19,Female,Secondary,None,3+ years,6.57,Employed
+2009,15-19,Female,Tertiary,Vocational,3+ years,5,Employed
+2017,20-24,Male,Secondary,None,None,2.91,Employed
+2000,20-24,Male,Secondary,Vocational,1-2 years,5.21,Employed
+2016,20-24,Male,Tertiary,Vocational,None,7.5,Employed
+2009,20-24,Female,Secondary,Vocational,None,2.83,Employed
+1993,20-24,Male,Secondary,Technical,None,6.49,Employed
+2003,15-19,Female,Secondary,Technical,1-2 years,3.14,Unemployed
+2018,20-24,Female,Secondary,Technical,1-2 years,6.3,Unemployed
+2010,15-19,Male,Tertiary,None,3+ years,6.04,Employed
+2018,15-19,Male,Secondary,None,None,3.65,Employed
+1998,20-24,Female,Secondary,Technical,3+ years,3.79,Employed
+1991,20-24,Female,Tertiary,None,None,6.36,Employed
+1993,15-19,Female,Primary,Vocational,1-2 years,4.54,Employed
+2003,15-19,Male,Tertiary,Vocational,1-2 years,6.02,Employed
+2018,15-19,Female,Primary,Vocational,1-2 years,2.81,Employed
+2015,20-24,Male,Tertiary,Technical,None,6.69,Employed
+2023,20-24,Female,Tertiary,None,1-2 years,5.91,Employed
+1996,20-24,Female,Secondary,Technical,None,6.99,Employed
+2022,20-24,Male,Primary,None,3+ years,2.73,Employed
+2011,20-24,Female,Secondary,Vocational,None,5.26,Employed
+2006,15-19,Male,Primary,Technical,3+ years,5.3,Employed
+2011,20-24,Male,Tertiary,None,None,3.94,Employed
+2001,15-19,Female,Tertiary,None,3+ years,4.52,Unemployed
+2025,15-19,Male,Primary,Vocational,1-2 years,2.21,Employed

@@ -1,0 +1,52 @@
+streamlit==1.32.0
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.0
+joblib==1.3.2
+matplotlib==3.8.0
+seaborn==0.13.0
+# Core ML / AI
+tensorflow==2.16.1
+torch==2.2.0
+xgboost==2.0.3
+lightgbm==4.3.0
+catboost==1.2.3
+statsmodels==0.14.1
+
+# Data handling
+openpyxl==3.1.2
+xlrd==2.0.1
+sqlalchemy==2.0.29
+pymongo==4.6.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+nltk==3.8.1
+spacy==3.7.4
+
+# Visualization
+plotly==5.19.0
+bokeh==3.3.4
+altair==5.2.0
+dash==2.15.0
+networkx==3.2.1
+graphviz==0.20.1
+
+# Deployment / Utilities
+flask==3.0.2
+fastapi==0.110.0
+uvicorn==0.27.1
+gunicorn==21.2.0
+docker==7.0.0
+pydantic==2.6.1
+
+# Testing / Workflow
+pytest==8.0.2
+jupyter==1.0.0
+notebook==7.1.2
+ipython==8.21.0
+ipywidgets==8.1.2
+
+# Extra helpers
+tqdm==4.66.2
+scipy==1.12.0
