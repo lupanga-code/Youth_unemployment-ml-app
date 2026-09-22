@@ -2,6 +2,16 @@ import streamlit as st
 import joblib
 import pandas as pd
 
+# Cache model loading
+@st.cache_data
+def load_model():
+    return joblib.load("youth_employment_model.pkl")
+
+# Cache data loading (kama unatumia dataset kubwa)
+@st.cache_data
+def load_data():
+    return pd.read_csv("youth_unemployment_dataset.csv")   # badilisha jina la file kulingana na dataset yako
+
 # Load trained model
 model = joblib.load("model.pkl")
 
