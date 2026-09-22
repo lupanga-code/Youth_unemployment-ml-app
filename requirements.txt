@@ -51,8 +51,9 @@ ipywidgets==8.1.2
 tqdm==4.66.2
 scipy==1.12.0
 
-streamlit
-pandas
+streamlit==1.64.0
+pandas==2.2.0
 numpy
 scikit-learn
 joblib
+
